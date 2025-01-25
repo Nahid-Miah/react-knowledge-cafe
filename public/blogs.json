@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "cover": "https://i.ibb.co/w4pRHMg/blog-notes-concept-with-wooden-blocks-pen-black-notebook-top-view.jpg",
+    "title": "Creative Minds at Work",
+    "author": "Sarah Miller",
+    "author_img": "https://i.ibb.co/MZbG63R/indoor-picture-serious-young-woman-stylish-blouse-resting-hands-wooden-table-having-cappuccino-coffe.jpg",
+    "posted_date": "2025-01-10",
+    "reading_time": 40,
+    "hashtags": ["#creativity", "#work", "#lifestyle"]
+  },
+  {
+    "id": "2",
+    "cover": "https://i.ibb.co/DwVJ2z5/jenny-pace-m-QZ-gd9-CV-o-unsplash.jpg",
+    "title": "The Art of Writing",
+    "author": "Jenny Pace",
+    "author_img": "https://i.ibb.co/P1yR5HQ/inspired-creative-woman-writing-down-ideas.jpg",
+    "posted_date": "2025-01-12",
+    "reading_time": 30,
+    "hashtags": ["#writing", "#inspiration", "#creative"]
+  },
+  {
+    "id": "3",
+    "cover": "https://i.ibb.co/WprVttm/online-blog.jpg",
+    "title": "Blogging for Beginners",
+    "author": "Mark Turner",
+    "author_img": "https://i.ibb.co/7CWGnQv/portrait-pensive-mature-authoress-eyeglasses.jpg",
+    "posted_date": "2025-01-15",
+    "reading_time": 25,
+    "hashtags": ["#blogging", "#beginner", "#contentcreation"]
+  },
+  {
+    "id": "4",
+    "cover": "https://i.ibb.co/gRQPdvy/open-notebook-taking-note-concept-with-pen-wooden-blocks-gray-background-top-view-space-text-horizon.jpg",
+    "title": "Notes on the Go",
+    "author": "Anna Lee",
+    "author_img": "https://i.ibb.co/GkMhDY1/young-woman-glasses-writes-notebook-while-sitting-table.jpg",
+    "posted_date": "2025-01-18",
+    "reading_time": 35,
+    "hashtags": ["#notes", "#writing", "#study"]
+  },
+  {
+    "id": "5",
+    "cover": "https://i.ibb.co/TYWZHsH/toy-bricks-table-with-word-blog.jpg",
+    "title": "Building a Blog Empire",
+    "author": "David King",
+    "author_img": "https://i.ibb.co/GkMhDY1/young-woman-glasses-writes-notebook-while-sitting-table.jpg",
+    "posted_date": "2025-01-20",
+    "reading_time": 50,
+    "hashtags": ["#blogging", "#marketing", "#business"]
+  }
+]
